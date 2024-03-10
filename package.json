@@ -7,6 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "va.ryabova",
-  "license": "ISC"
+  "author": "Viktoriia Riabova",
+  "license": "ISC",
+  "keywords": []
 }
