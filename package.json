@@ -9,5 +9,8 @@
   },
   "author": "Viktoriia Riabova",
   "license": "ISC",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
